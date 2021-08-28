@@ -1,3 +1,6 @@
 displayName = Demonic little grey cat by omga
-author = omga
-version = 1.0.0
+author = omga, vzizbek
+version = 1.0.1
+hideCode = true
+hideResources = true
+buildIgnore = *.csproj, *.user, obj\*, bin\*, .vs\*, .git\*
