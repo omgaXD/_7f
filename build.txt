@@ -1,6 +1,7 @@
 displayName = Demonic little grey cat by omga
 author = omga, vzizbek
-version = 1.0.1
+version = 1.0.2
+homepage = https://forums.terraria.org/index.php?threads/demonic-little-grey-cat-mod-by-omga-homepage.107175/
 hideCode = true
 hideResources = true
 buildIgnore = *.csproj, *.user, obj\*, bin\*, .vs\*, .git\*
