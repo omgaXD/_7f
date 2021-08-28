@@ -1,0 +1,20 @@
+var texture = TextureAssets.Projectile[projectile.type].Value;
+var position = projectile.Center;
+for (int i = 0; i < 4; i++)
+{
+    var drawPosition = position + new Vector2(2f, 0f).RotatedBy(MathHelper.PiOver2 * i);
+    var color = new Color(Main.discoR, Main.discoG, Main.discoB, 0) * 0.25f;
+    // draw it
+}
+
+int trailLength = ProjectileID.Sets.TrailCacheLength[Projectile.type]
+var texture = TextureAssets.Projectile[Projectile.type].Value;
+var offset = new Vector2(Projectile.width / 2f, Projectile.height / 2f);
+var fadeMult = 1f / trailLength;
+for (int i = 0; i < trailLength; i++)
+{
+    var drawPosition = projectile.oldPos[i] + offset;
+    // typical fade
+    var color = new Color(Main.discoR, Main.discoG, Main.discoB, 0) * 0.25f * (1f - fadeMult * i);
+    // draw it
+}

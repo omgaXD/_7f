@@ -1,0 +1,3 @@
+displayName = Demonic little grey cat by omga
+author = omga
+version = 1.0.0

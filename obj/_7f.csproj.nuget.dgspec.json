@@ -1,0 +1,53 @@
+{
+  "format": 1,
+  "restore": {
+    "c:\\Users\\Ershiria i ee semya\\Documents\\My Games\\Terraria\\ModLoader\\Mod Sources\\_7f\\_7f.csproj": {}
+  },
+  "projects": {
+    "c:\\Users\\Ershiria i ee semya\\Documents\\My Games\\Terraria\\ModLoader\\Mod Sources\\_7f\\_7f.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\Users\\Ershiria i ee semya\\Documents\\My Games\\Terraria\\ModLoader\\Mod Sources\\_7f\\_7f.csproj",
+        "projectName": "_7f",
+        "projectPath": "c:\\Users\\Ershiria i ee semya\\Documents\\My Games\\Terraria\\ModLoader\\Mod Sources\\_7f\\_7f.csproj",
+        "packagesPath": "C:\\Users\\Ershiria i ee semya\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\Ershiria i ee semya\\Documents\\My Games\\Terraria\\ModLoader\\Mod Sources\\_7f\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Ershiria i ee semya\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net45"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net45": {
+            "targetAlias": "net45",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net45": {
+          "targetAlias": "net45",
+          "dependencies": {
+            "tModLoader.CodeAssist": {
+              "target": "Package",
+              "version": "[0.1.*, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

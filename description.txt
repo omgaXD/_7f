@@ -1,0 +1,6 @@
+This mod is nearly the first thing I actually have done with TModLoader,
+it adds post-moonlord weapons like Meowyoyo, Supernova and O.M.F.G (more stuff will be added later),
+and a new boss with absolutely unique AI, which can be summoned with "Suspicious Cat Food". The mod also adds
+Hallowed Knives, Terra Knives and Phasma Knives to post-mech, post-plantera and post-moonlord accordingly, which
+will have mechanics similar to Vampire Knives.
+There's also an accessory that does a cool thing, but you'll figure that out yourself :D
